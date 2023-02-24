@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Qui a gagné la coupe du monde de football en 2018 ?" ,
+    "choices": ["France", "Allemagne", "Brésil", "Argentine"],
+    "answer": "France" 
+  },
+  {
+    "text":  "Quel club de football a gagné la coupe d'Europe en 2016 ?" ,
+    "choices": ["Real Madrid", "Barcelone", "Bayern Munich", "Juventus"],
+    "answer": "Real Madrid" 
+  },
+  {
+    "text": "Quel footballeur a gagné le ballon d'or en 2018 ?" ,
+    "choices": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Modric"],
+    "answer": "Lionel Messi" 
+  },
+  {
+    "text":  "Quel est le meilleur buteur de l'équipe d'Uruguay ?" ,
+    "choices": ["Luis Suarez", "Diego Forlan", "Edinson Cavani", "Sebastian Abreu"],
+    "answer": "Allemagne" 
+  },
+  {
+    "text": "Quel club est le plus titré d'Angleterre ?" ,
+    "choices": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
+    "answer": "Manchester United" 
+  },
+
+  {
+  "text": "Quel joueur n'as jamais joué au Real Madrid ?",
+  "choices": ["Fabinho", "Eto'o", "Rivaldo", "Anelka"],
+  "answer": "Rivaldo"
+  },
+  
+    {
+  "text": "Quel joueur n'a jamais joué au Barca?",
+  "choices": ["Giuly", "Rothen", "Leboeuf", "Blanc"],
+  "answer": "Rothen"
+  },
+  
+    {
+  "text": "Quel club a inspié le film Hooligans ?",
+  "choices": ["West-Ham", "Fulham", "QPR", "West-Bromwich"],
+  "answer": "West-Ham"
+  },
+  
+    {
+  "text": "Quel championnat est le plus titré en Europe ?",
+  "choices": ["Espagne", "Angleterre", "Italie", "Allemagne"],
+  "answer": "Espagne"
+  },
+  
+    {
+  "text": "Quel joueur n'a jamais joué au PSG ?",
+  "choices": ["Landreau", "Cana", "Makélélé", "Thuram"],
+  "answer": "Thuram"
+  },
+
+  {
+    "text": "Quel est l'autre club de la ville de Liverpool ?" ,
+    "choices": ["Everton", "Southampton", "QPR", "Crystal Palace"],
+    "answer": "Everton"
+  },
+
+  {
+    "text": "L'Ajax a gagné combien de championnat d'Europe ?" ,
+    "choices": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+
+{ 
+  "text": "Quel joueur n'a jamais été ballon d'or ?",
+  "choices": ["Weah", "Maradona", "Cryuff", "Pele"],
+  "answer": "Pele"
+  },
+
+  {
+  "text": "Quelle équipe est arrivé 3e de la coupe du monde 2002 ?",
+  "choices": ["Turquie", "Japon", "Mexique", "Suède"],
+  "answer": "Turquie"
+  }
+
+ 
+  
+  ]
+
+  
